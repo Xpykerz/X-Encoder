@@ -11,7 +11,7 @@ Instaling CrackZip
 In Linux
 ```
 apt-get update && apt-get upgrade
-apt-get install python
+apt install python
 apt install git 
 git clone https://github.com/Xpykerz/X-Encoder.git
 cd X-Encoder
