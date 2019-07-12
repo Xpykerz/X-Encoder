@@ -16,8 +16,9 @@ apt install git
 git clone https://github.com/Xpykerz/X-Encoder.git
 cd X-Encoder
 chmod +x X-Encoder.py
-./X-Encoder.py
+python X-Encoder.py
 ```
+try with ``` python2``` if geting erorr.
 
 ## Screenshot
 ![image](https://github.com/Xpykerz/X-Encoder/blob/master/Screenshot.png)
