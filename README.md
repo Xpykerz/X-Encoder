@@ -12,7 +12,7 @@ In Linux
 ```
 apt-get update && apt-get upgrade
 apt-get install python
-apt-install git 
+apt install git 
 git clone https://github.com/Xpykerz/X-Encoder.git
 cd X-Encoder
 chmod +x X-Encoder.py
